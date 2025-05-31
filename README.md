@@ -1,8 +1,5 @@
 # GPU-Parallel-Program-Development-Using-CUDA
-
-```
 This is source code for GPU Parallel Program Development Using CUDA  
-```
 
 ### How to run demo case
 
@@ -18,6 +15,6 @@ $ ./imflipG cat.bmp output.bmp
 ![Image text](https://github.com/cuiyixin555/GPU-Parallel-Program-Development-Using-CUDA/blob/master/CUDA-CODE/output.bmp)
 
 ### Book Cover
-![Image text](https://github.com/cuiyixin555/GPU-Parallel-Program-Development-Using-CUDA/blob/master/CUDA-CODE/book_cover.png)
+![Image text](https://github.com/cuiyixin555/GPU-Parallel-Program-Development-Using-CUDA/blob/master/book_cover.png)
 
 
