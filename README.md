@@ -1,13 +1,23 @@
 # GPU-Parallel-Program-Development-Using-CUDA
+
+```
 This is source code for GPU Parallel Program Development Using CUDA  
+```
 
 ### How to run demo case
+
+```bash
 $ cd CUDA-CODE  
 $ nvcc -o imflipG imflipG.cu  
 $ ./imflipG cat.bmp output.bmp  
-
+```
 ### Input  
 ![Image text](https://github.com/cuiyixin555/GPU-Parallel-Program-Development-Using-CUDA/blob/master/CUDA-CODE/cat.bmp)
 
 ### Output  
 ![Image text](https://github.com/cuiyixin555/GPU-Parallel-Program-Development-Using-CUDA/blob/master/CUDA-CODE/output.bmp)
+
+### Book Cover
+![Image text](https://github.com/cuiyixin555/GPU-Parallel-Program-Development-Using-CUDA/blob/master/CUDA-CODE/book_cover.png)
+
+
